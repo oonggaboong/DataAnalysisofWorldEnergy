@@ -1,5 +1,5 @@
-# Data Analysis: World Energy (1900-2023)
-### <a href="https://github.com/Int.ipynb">Python Code in Jupiter Notebook</a>
+# Data Analysis: World Energy
+### <a href="https://github.com/oonggaboong/DataAnalysisofWorldEnergy/blob/main/DataAnalysisofWorldEnergy.ipynb">Python Code in Jupiter Notebook</a>
 In this project, I used several Python packages, such as:
 - Pandas
 - Numpy
