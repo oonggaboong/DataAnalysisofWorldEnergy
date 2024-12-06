@@ -50,7 +50,7 @@ Downloaded from the website on 11 October 2023
         </span>   
     </font>    
 </h2>
-Please refer to the <a href="https://github.com/hamiive.ipynb">Jupyter Notebook</a> of the project. <br><br>
+Please refer to the <a href="https://github.com/oonggaboong/DataAnalysisofWorldEnergy/blob/main/DataAnalysisofWorldEnergy.ipynb">Jupyter Notebook</a> of the project. <br><br>
     
 <a id="Interpretation"></a>
 <h2>   
@@ -60,7 +60,7 @@ Please refer to the <a href="https://github.com/hamiive.ipynb">Jupyter Notebook<
         </span>   
     </font>    
 </h2>
-Please refer to the <a href="htttive.ipynb">Jupyter Notebook</a> of the project. <br><br>
+Please refer to the <a href="https://github.com/oonggaboong/DataAnalysisofWorldEnergy/blob/main/DataAnalysisofWorldEnergy.ipynb">Jupyter Notebook</a> of the project. <br><br>
     
 <div class="alert alert-block alert-info">
     <span>
@@ -117,7 +117,7 @@ The goals of this analysis are: <br>
     </font>    
 </h2>
   
-Please refer to the <a href="https://github.com/hamiive.ipynb">Jupyter Notebook</a> of the project. <br><br>
+Please refer to the <a href="https://github.com/oonggaboong/DataAnalysisofWorldEnergy/blob/main/DataAnalysisofWorldEnergy.ipynb">Jupyter Notebook</a> of the project. <br><br>
  
     
 <p>    
@@ -144,7 +144,7 @@ Please refer to the <a href="https://github.com/hamiive.ipynb">Jupyter Notebook<
     </font>    
 </h2>
 
-<a href="https://github.com/hamid-rahbar/WorldEnergyDataAnalysisPython/blob/main/Plots/P.7.1.4.jpg"><img align="center" width="auto" height="auto" src="https://github.com/hamid-rahbar/WorldEnergyDataAnalysisPython/blob/main/Plots/P.7.1.4.jpg"></a> <br>
+<a href="https://github.com/oonggaboong/DataAnalysisofWorldEnergy/blob/main/Plots/P.7.1.jpg"><img align="center" width="auto" height="auto" src="https://github.com/hamid-rahbar/WorldEnergyDataAnalysisPython/blob/main/Plots/P.7.1.4.jpg"></a> <br>
 
 <div class="alert alert-block alert-info">
     <span>
@@ -157,7 +157,7 @@ Please refer to the <a href="https://github.com/hamiive.ipynb">Jupyter Notebook<
 
 
 
-<a href="https://github.com/hamid-rahbar/WorldEnergyDataAnalysisPython/blob/main/Plots/P.7.3.2.png"><img align="center" width="auto" height="auto" src="https://github.com/hamid-rahbar/WorldEnergyDataAnalysisPython/blob/main/Plots/P.7.3.2.png"></a> <br>
+<a href="https://github.com/oonggaboong/DataAnalysisofWorldEnergy/blob/main/Plots/P.7.2.jpg"><img align="center" width="auto" height="auto" src="https://github.com/hamid-rahbar/WorldEnergyDataAnalysisPython/blob/main/Plots/P.7.3.2.png"></a> <br>
 
 <div class="alert alert-block alert-info">
     <span>
@@ -168,7 +168,7 @@ Please refer to the <a href="https://github.com/hamiive.ipynb">Jupyter Notebook<
     </span>  
 </div>
 
-<a href="https://github.com/hamid-rahbar/WorldEnergyDataAnalysisPython/blob/main/Plots/P.7.4.1.jpg"><img align="center" width="auto" height="auto" src="https://github.com/hamid-rahbar/WorldEnergyDataAnalysisPython/blob/main/Plots/P.7.4.1.jpg"></a> <br>
+<a href="https://github.com/oonggaboong/DataAnalysisofWorldEnergy/blob/main/Plots/P.7.3.jpg"><img align="center" width="auto" height="auto" src="https://github.com/hamid-rahbar/WorldEnergyDataAnalysisPython/blob/main/Plots/P.7.4.1.jpg"></a> <br>
 
 <div class="alert alert-block alert-info">
     <span>
@@ -179,7 +179,7 @@ Please refer to the <a href="https://github.com/hamiive.ipynb">Jupyter Notebook<
     </span>  
 </div>
 
-<a href="https://github.com/hamid-rahbar/WorldEnergyDataAnalysisPython/blob/main/Plots/P.7.5.1.jpg"><img align="center" width="auto" height="auto" src="https://github.com/hamid-rahbar/WorldEnergyDataAnalysisPython/blob/main/Plots/P.7.5.1.jpg"></a> <br>
+<a href="https://github.com/oonggaboong/DataAnalysisofWorldEnergy/blob/main/Plots/P.7.4.jpg"><img align="center" width="auto" height="auto" src="https://github.com/hamid-rahbar/WorldEnergyDataAnalysisPython/blob/main/Plots/P.7.5.1.jpg"></a> <br>
 
 <div class="alert alert-block alert-info">
     <span>
@@ -194,7 +194,7 @@ Please refer to the <a href="https://github.com/hamiive.ipynb">Jupyter Notebook<
     </span>  
 </div>
 
-<a href="https://github.com/hamid-rahbar/WorldEnergyDataAnalysisPython/blob/main/Plots/P.7.6.1.jpg"><img align="center" width="auto" height="auto" src="https://github.com/hamid-rahbar/WorldEnergyDataAnalysisPython/blob/main/Plots/P.7.6.1.jpg"></a> <br>
+<a href="https://github.com/oonggaboong/DataAnalysisofWorldEnergy/blob/main/Plots/P.7.5.jpg"><img align="center" width="auto" height="auto" src="https://github.com/hamid-rahbar/WorldEnergyDataAnalysisPython/blob/main/Plots/P.7.6.1.jpg"></a> <br>
 
 <div class="alert alert-block alert-info">
     <span>
@@ -218,7 +218,7 @@ Please refer to the <a href="https://github.com/hamiive.ipynb">Jupyter Notebook<
     </font>    
 </h2>
 
-<a href="https://github.com/hamid-rahbar/WorldEnergyDataAnalysisPython/blob/main/Plots/P.8.1.jpg"><img align="center" width="auto" height="auto" src="https://github.com/hamid-rahbar/WorldEnergyDataAnalysisPython/blob/main/Plots/P.8.1.jpg"></a> <br>
+<a href="https://github.com/oonggaboong/DataAnalysisofWorldEnergy/blob/main/Plots/P.8.1.jpg"><img align="center" width="auto" height="auto" src="https://github.com/hamid-rahbar/WorldEnergyDataAnalysisPython/blob/main/Plots/P.8.1.jpg"></a> <br>
 
 <a id="Conclusion"></a>
 <h2>   
